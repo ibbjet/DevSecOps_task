@@ -13,3 +13,5 @@ the maximum extent possible.
 Imagine that this is a small part of our Terraform code base that will need to delegate
 privileges to other services besides DynamoDB and you are the first person to
 represent IAM resources with Terraform.
+
+Using localstack.
